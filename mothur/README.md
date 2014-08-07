@@ -54,3 +54,6 @@ Now let's start mothur again.  Type
 And we're back in mothur, and let's start going through the protocol
 
 ** Often the summary.seqs() commands take awhile.  Just wait and eventually you'll get the result
+
+
+### mothur example
