@@ -50,6 +50,12 @@ Green sticky note up if you have the mothur command prompt
 Once you have it up the first thing we'll do is quit mothur, so type  
 `quit()`  
 
+If you're in mothur, or really any command line environment, you can type Ctrl^C to quit that command
+
+** Getting help  
+mothur manual - [http://wiki.mothur.org/wiki/Mothur_manual](http://wiki.mothur.org/wiki/Mothur_manual)
+mothur user forum - [http://www.mothur.org/forum/](http://www.mothur.org/forum/)
+
 ### Set up your work environment
 
 How are you going to keep track of all the commands you're running.  
@@ -106,7 +112,10 @@ We already have the files we need for this example, but let's take a look at som
 `ls`  
 Now you see a list of files.
 We have the fastq files.  Those are the files you get back from the sequencing center. Let's take a look at those.  
-`cat F3D0_S188_L001_R1_001.fastq`
+`cat F3D0_S188_L001_R1_001.fastq`  
+or  
+`less F3D0_S188_L001_R1_001.fastq`
+
 
 Then you have the stability.files file.  That is a file that tells mothur what paired end sequences go together and what the sample name is.  
 Let's take a look at that file.  
