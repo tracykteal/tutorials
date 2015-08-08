@@ -1,5 +1,9 @@
 # mothur tutorial
 
+Actually go to 
+
+[http://tracykteal.github.io/mothur-tutorial/](http://tracykteal.github.io/mothur-tutorial/)
+
 
 ### Logistics
 Instructor:
